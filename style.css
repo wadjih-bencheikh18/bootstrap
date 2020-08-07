@@ -1,0 +1,17 @@
+.row > div{
+    border: black 3px solid;
+    background-color: rgb(194, 191, 191);
+}
+.title{
+    float: right;
+    margin-right: -18px;
+    margin-top: -3px;
+    border: 3px solid black;
+    background-color: red;
+}
+.para{
+    clear: both;
+}
+.row > h1{
+    text-align: center;
+}
